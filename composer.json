@@ -1,0 +1,11 @@
+{
+  "name": "flamesphp/example",
+  "description": "Flames: Example",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=8.5"
+  }
+}
